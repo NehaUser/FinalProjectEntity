@@ -4,6 +4,6 @@ The final Portfolio Project
 - Neha
 - Sindy
 - Nic
-- Cory
+- Cory...?
 - Sara
 - Sonya
