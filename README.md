@@ -1,9 +1,8 @@
 # FinalProjectEntity
-The final Portfolio Project
+
+The Final Portfolio Project
 
 - Neha
 - Sindy
-- 
-- Cory...?
 - Sara
 - Sonya
