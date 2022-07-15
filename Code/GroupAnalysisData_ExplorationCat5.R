@@ -7,7 +7,7 @@ library(ggplot2)
 library(stringr)                               
 
 # Read data 
-usdaHoney2 <- read_csv("Desktop/Final Project/Data/usdaHoney2.csv")
+usdaHoney2 <- read_csv("../Data/usdaHoney2.csv")
 
 
 View(usdaHoney2)
@@ -164,7 +164,7 @@ FinalDSYear98to12$SugarValue <- DSSugar$SugarValue
 View(FinalDSYear98to12)
 
 # Writing csv
-write_csv(FinalDSYear98to12, "Desktop/Final Project/Data/Category5Final98to12.csv")
+write_csv(FinalDSYear98to12, "../Data/Category5Final98to12.csv")
 
 # Correlation Matrix
 

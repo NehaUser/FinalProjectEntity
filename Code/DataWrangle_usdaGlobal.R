@@ -92,5 +92,5 @@ View(FinalGlobalDS)
 
 # Writing the CSV file
 
-write_csv(FinalGlobalDS, "Desktop/Final Project/Data/usdaGlobal_HighCorr_Honey.csv")
+write_csv(FinalGlobalDS, "../Data/usdaGlobal_HighCorr_Honey.csv")
 
